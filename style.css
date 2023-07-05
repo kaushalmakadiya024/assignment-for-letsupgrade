@@ -1,0 +1,13 @@
+.s1{
+    background-color: blue;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.header{
+    background-color: #87CEEB;
+    color: black;
+}
